@@ -8,4 +8,7 @@
     - Autonomous motion using ultrasonic sensors.
 - Code written in Arduino and C++
 - More detailed description of the project can be found in the file titled 'Report'
-- Circuit diagram and software architecture described in respective files
+- Circuit diagram and software architecture below
+
+![alt text](https://github.com/aslamahrahman/Mechatronics-Combat-Bot-Arduino/blob/master/Circuit%20diagram.png)
+![alt_text](https://github.com/aslamahrahman/Mechatronics-Combat-Bot-Arduino/blob/master/Software%20architecture.png)
